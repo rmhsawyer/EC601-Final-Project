@@ -1,0 +1,25 @@
+Cohn-Kanade AU-Coded Expression Database
+
+http://www.consortium.ri.cmu.edu/ckagree/index.cgi
+
+The Cohn-Kanade AU-Coded Facial Expression Database is for research in automatic facial image analysis and synthesis and for perceptual studies. Cohn-Kanade is available in two versions and a third is in preparation.
+
+Version 1, the initial release, includes 486 sequences from 97 posers. Each sequence begins with a neutral expression and proceeds to a peak expression. The peak expression for each sequence in fully FACS (Ekman, Friesen, & Hager, 2002; Ekman & Friesen, 1979) coded and given an emotion label. The emotion label refers to what expression was requested rather than what may actually have been performed. For a full description of CK, see (Kanade, Cohn, & Tian, 2000).For validated emotion labels, please use version 2, CK+, as described below.
+
+Version 2, referred to as CK+, includes both posed and non-posed (spontaneous) expressions and additional types of metadata. For posed expressions, the number of sequences is increased from the initial release by 22% and the number of subjects by 27%. As with the initial release, the target expression for each sequence is fully FACS coded. In addition validated emotion labels have been added to the metadata. Thus, sequences may be analyzed for both action units and prototypic emotions. The non-posed expressions are from Ambadar, Cohn, & Reed (2009). Additionally, CK+ provides protocols and baseline results for facial feature tracking and action unit and emotion recognition. Tracking results for shape and appearance are via the approach of Matthews & Baker (2004). For action unit and expression recognition, a linear support vector machine (SVM) classifier with leave-one-out subject cross-validation was used. Both sets of results are included with the metadata. For a full description of CK+, please see P. Lucey et al. (2010).
+
+Version 3 is planned for future release. The original data collection of Cohn-Kanade included synchronized frontal and 30-degree from frontal video (fig. 1, below). Version 3 will add the synchronized 30-degree from frontal video.
+
+To receive the database for research, non-commercial use, please visit the distribution webpage.
+
+
+
+Fig. 1. Frontal and 30-degree views from the Cohn-Kanade database. Each sequence begins with a neutral expression and proceeds to a target expression. In the example shown, the target expression is surprise, AU 1+2+5+27.
+
+References:
+
+Matthews, I., & Baker, S. (2004). Active appearance models revisited. International Journal of Computer Vision, 60(2), 135-164.
+Kanade, T., Cohn, J. F., & Tian, Y. (2000). Comprehensive database for facial expression analysis. Paper presented at the Fourth IEEE International Conference on Automatic Face and Gesture Recognition.[pdf]
+Ambadar, Z., Cohn, J. F., & Reed, L. I. (2009). All smiles are not created equal: Morphology and timing of smiles perceived as amused, polite, and embarrassed/nervous. Journal of Nonverbal Behavior, 33, 17-34. [pdf]
+Pollak, S. D., Messner, M., Kistler, D. J., & Cohn, J. F. (2009). Development of perceptual expertise in emotion recognition. Cognition, 110(2), 242-247.[pdf]
+Lucey, P., Cohn, J. F., Kanade, T., Saragih, J., Ambadar, Z., & Matthews, I. (2010). The Extended Cohn-Kande Dataset (CK+): A complete facial expression dataset for action unit and emotion-specified expression. Paper presented at the Third IEEE Workshop on CVPR for Human Communicative Behavior Analysis (CVPR4HB 2010). [pdf]
