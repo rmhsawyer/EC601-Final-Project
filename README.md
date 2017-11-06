@@ -3,6 +3,7 @@ Project Description: an App that translates user's expression into emoji based o
 
 # Directory Descriptions:
 emojis : pngs of emojis
+
 model: training models
 
 
