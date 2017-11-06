@@ -1,0 +1,33 @@
+
+The Japanese Female Facial Expression (JAFFE) Database
+
+The database contains 213 images of 7 facial expressions (6 basic facial expressions + 1 neutral) posed by 10 Japanese female models. Each image has been rated on 6 emotion adjectives by 60 Japanese subjects. The database was planned and assembled by Michael Lyons, Miyuki Kamachi, and Jiro Gyoba. We thank Reiko Kubota for her help as a research assistant. The photos were taken at the Psychology Department in Kyushu University.
+Publications with information about the JAFFE database
+
+Coding Facial Expressions with Gabor Wavelets
+Michael J. Lyons, Shigeru Akamatsu, Miyuki Kamachi & Jiro Gyoba 
+Proceedings, Third IEEE International Conference on Automatic Face and Gesture Recognition, 
+April 14-16 1998, Nara Japan, IEEE Computer Society, pp. 200-205. (478K PDF)
+Automatic Classification of Single Facial Images
+Michael J. Lyons, Julien Budynek, & Shigeru Akamatsu 
+IEEE Transactions on Pattern Analysis and Machine Intelligence 21 (12): 1357-1362 (1999). (1.7M PDF)
+
+Evidence and a computational explanation of cultural differences in facial expression recognition.
+Matthew N Dailey, Carrie Joyce, Michael J Lyons, Miyuki Kamachi, Hanae Ishi, Jiro Gyoba, & Garrison W Cottrell 
+Emotion, Vol 10(6), Dec 2010, 874-893. (717k PDF)
+
+How to obtain access to the images:
+
+The JAFFE database is available free of charge for use in non-commerical research. 
+Information about how to download the images is available here.
+Related Research Projects on this Site:
+
+The Noh Mask Effect
+The Mouthesizer: Facial Action HCI
+Personalized Avatar Creation using Face Recognition
+Web Resources on Facial Expression Research
+The Tricolore Illusion: Illusory Colour Perception
+
+
+
+http://www.kasrl.org/jaffe.html
