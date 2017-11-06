@@ -3,10 +3,6 @@
 #
 # This file contains utility functions for interactions with the Caffe
 # deep learning framework.
-#
-#
-
-#
 ###############################################################################
 
 import os, shutil, sys, time, re, glob

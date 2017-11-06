@@ -19,7 +19,6 @@
 #   SPACE - Skip to next emotion without saving
 #   ESC   - Quit the program
 #
-#
 #############################################################################################
 
 import os, shutil, sys, time, re, glob

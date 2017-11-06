@@ -1,7 +1,6 @@
 ###############################################################################
 # Utility functions for OpenCV-Caffe chaining
 # and anything generally useful for our other scripts
-
 ###############################################################################
 
 import os, shutil, sys, time, re, glob, csv

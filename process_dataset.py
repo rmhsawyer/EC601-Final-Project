@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 
 ###############################################################################
-#
 # This was our original 'main' script.
 # Its job is to read and classify an entire dataset. 
 # It also calculates its a confusion matrix and its accuracy.
 # Configured for the CK+ and JAFFE datasets
-
 ###############################################################################
 
 import os, shutil, sys, time, re, glob

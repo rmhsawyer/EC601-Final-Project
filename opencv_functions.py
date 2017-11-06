@@ -7,8 +7,6 @@
 # Face detection is done with Haar Cascades, whose weights must be downloaded
 # from online resources.
 #
-#
-#
 ###############################################################################
 
 import os, shutil, sys, time, re, glob
