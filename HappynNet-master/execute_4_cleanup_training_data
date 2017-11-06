@@ -1,3 +1,0 @@
-rm datasets/mean_training_image.binaryproto
-rm -r datasets/training_set_lmdb
-rm datasets/training_list.txt
