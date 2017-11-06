@@ -6,6 +6,8 @@ emojis : pngs of emojis
 
 model: training models
 
+datasets: training datasets
+
 
 
 # File descriptions:
