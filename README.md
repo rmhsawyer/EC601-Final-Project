@@ -1,11 +1,16 @@
 # EC601-Final-Project
 Project Description: an App that translates user's expression into emoji based on Android
 
+# Directory Descriptions:
+emojis : pngs of emojis
+
+model: training models
+
+datasets: training datasets
 
 
 
-
-# Utility functions:
+# File descriptions:
 caffe_functions.py  - anything dealing primarily with caffe
 
 opencv_functions.py - anything dealing primarily with opencv
