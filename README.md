@@ -11,12 +11,21 @@ Project traits:
 
 4.multiple expressions emoji matching(happy-surprise) or sigle(happy) expression matching
 
+Authors:
+Minghe Ren (sawyermh@bu.edu)
+
+Simin Zhai (siminz@bu.edu)
+
+Tianhen Hu (tianheng@bu.edu)
+
+Xueying Pan (xueying@bu.edu)
+
 # Directory Descriptions:
-emojis : pngs of emojis
+emojis : pngs of emojis (we're updating more)
 
 model: training models and opencv models
 
-datasets: training datasets we are using
+datasets: training datasets and codes we used
 
 
 # File descriptions:
