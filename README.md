@@ -1,22 +1,19 @@
 # EC601-Final-Project
-Project Description: an App that translates user's expression into emoji based on Android
+Project Description: an Andorid and PC App that translates user's expression into emojis
+
+Project traits:
+1.PC real-time expression detection
+2.multiple faces expression detection both on PC and Android
+3.image expression detection on Android
+4.multiple expressions emoji matching(happy-surprise) or sigle(happy) expression matching
 
 # Directory Descriptions:
 emojis : pngs of emojis
 
-model: training models
+model: training models and opencv models
 
-datasets: training datasets
-
+datasets: training datasets we are using
 
 
 # File descriptions:
-caffe_functions.py  - anything dealing primarily with caffe
 
-opencv_functions.py - anything dealing primarily with opencv
-
-utility_functions.py - General functions mostly related to file I/O
-
-gather_training_data.py - Use this to generate a custom training set
-
-process_dataset.py - Read in an entire training set and calculate accuracy over the set
