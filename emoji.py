@@ -55,23 +55,21 @@ model.load_weights('model.h5')
 
 # generate pb file
 frozen_graph = freeze_session(K.get_session(), output_names=[model.output.op.name])
-
 tf.train.write_graph(frozen_graph, "/Users/mingheren/Desktop/facemoji", "my_model.pb", as_text=False)
-
 
 
 # overlay meme face
 def overlay_memeface(probs):
     if max(probs) > 0.8:
         emotion = emotions[np.argmax(probs)]
-        #return 'meme_faces/{}-{}.png'.format(emotion, emotion)
-        return 'meme_faces/{}'.format(emotion)
+        #return 'Emojis/{}-{}.png'.format(emotion, emotion)
+        return 'Emojis/{}'.format(emotion)
     else:
         index1, index2 = np.argsort(probs)[::-1][:2]
         emotion1 = emotions[index1]
         emotion2 = emotions[index2]
-        #return 'meme_faces/{}-{}.png'.format(emotion1, emotion2)
-        return 'meme_faces/{}.png'.format(emotion1)
+        #return 'Emojis/{}-{}.png'.format(emotion1, emotion2)
+        return 'Emojis/{}.png'.format(emotion1)
 
 def predict_emotion(face_image_gray): # a single cropped face
     resized_img = cv2.resize(face_image_gray, (48,48), interpolation = cv2.INTER_AREA)
