@@ -50,6 +50,10 @@ datasets: training datasets and codes we used
 
 7. Nariz.xml -- open source 25x15 Nose detector computed with 7000 positive samples
 
+8. AdvancedAndroid_emojify folder -- android application 
+
+9. feedback of our colleagues -- the feedback summary of our colleagues
+
 # How to run this project:
 
 In this directory, try:
