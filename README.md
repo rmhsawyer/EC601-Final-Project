@@ -11,7 +11,7 @@ Project traits:
 
 3. image expression detection on Android
 
-4. multiple expressions emoji matching(combination emojis like happy-surprise, angry-surprse) or sigle(happy) expression matching
+4. multiple expressions emoji matching (combination emojis like happy-surprise, angry-surprse) or sigle(happy) expression matching
 
 5. our model architecture:
 
