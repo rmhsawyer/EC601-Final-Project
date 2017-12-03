@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\welcome.png",
+        "source": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\src\\main\\res\\mipmap-xxhdpi\\welcome.png"
+    },
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

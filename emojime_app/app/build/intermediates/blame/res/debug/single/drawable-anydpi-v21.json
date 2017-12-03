@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\simin\\.android\\build-cache\\eb60dd3b1835681fa83535ba9582c42476898276\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_share.xml",
+        "source": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\simin\\.android\\build-cache\\eb60dd3b1835681fa83535ba9582c42476898276\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_save.xml",
+        "source": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_save.xml"
+    },
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_delete.xml",
+        "source": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_clear.xml",
+        "source": "E:\\AdvancedAndroid_Emojify-develop_branch\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_clear.xml"
+    }
+]
