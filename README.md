@@ -13,6 +13,10 @@ Project traits:
 
 4. multiple expressions emoji matching(combination emojis like happy-surprise, angry-surprse) or sigle(happy) expression matching
 
+5. our model architecture:
+
+gray-scale 48x48 image (cropped) >> 3 sequential conv.layers (32 feat. maps per layer) >> maxpool >> 3 sequential conv.layers (64 feat. maps per layer) >> maxpool >> 3 sequential conv.layers (128 feat. maps per layer) >>maxpool >> 2 sequential dense layers (20% dropout) >> softmax output
+
 Authors:
 
 Minghe Ren (sawyermh@bu.edu)
