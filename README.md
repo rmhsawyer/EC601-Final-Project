@@ -11,7 +11,7 @@ Project traits:
 
 3. image expression detection on Android
 
-4. multiple expressions emoji matching(combination emojis like happy-surprise, angry-surprse) or sigle(happy) expression matching
+4. multiple expressions emoji matching (combination emojis like happy-surprise, angry-surprse) or sigle(happy) expression matching
 
 5. our model architecture:
 
@@ -62,4 +62,13 @@ python real-time.py haar-cascade_frontalface_default.xml
 
 python emojis.py haar-cascade_frontalface_default.xml
 
+# References:
+1. "Dataset: Facial Emotion Recognition (FER2013)" ICML 2013 Workshop in Challenges in Representation Learning, June 21 in Atlanta, GA.
 
+2. "Andrej Karpathy's Convolutional Neural Networks (CNNs / ConvNets)" Convolutional Neural Networks for Visual Recognition (CS231n), Stanford University.
+
+3. Srivastava et al., 2014. "Dropout: A Simple Way to Prevent Neural Networks from Overfitting", Journal of Machine Learning Research, 15:1929-1958.
+
+4. Duncan, D., Shine, G., English, C., 2016. "Report: Facial Emotion Recognition in Real-time" Convolutional Neural Networks for Visual Recognition (CS231n), Stanford University.
+
+5. Jostine Ho, "mememoji", Interactive Web App Mememoji is an interactive emotion recognition system that detects emotions based on facial expressions.
