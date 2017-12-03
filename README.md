@@ -14,6 +14,7 @@ Project traits:
 4. multiple expressions emoji matching(combination emojis like happy-surprise, angry-surprse) or sigle(happy) expression matching
 
 Authors:
+
 Minghe Ren (sawyermh@bu.edu)
 
 Simin Zhai (siminz@bu.edu)
@@ -44,5 +45,13 @@ datasets: training datasets and codes we used
 6. my_model.pb -- for android implantation
 
 7. Nariz.xml -- open source 25x15 Nose detector computed with 7000 positive samples
+
+# How to run this project:
+
+In this directory, try:
+
+python real-time.py haar-cascade_frontalface_default.xml
+
+python emojis.py haar-cascade_frontalface_default.xml
 
 
