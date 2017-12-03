@@ -34,7 +34,7 @@ model: training models and opencv models (Models with various combinations were 
 
 datasets: training datasets and codes we used
 
-emojime -- android application 
+emojime_app -- android application 
 
 # File descriptions:
 1. The haar-cascade_frontalface_default.xml in OpenCV contains pre-trained filters and uses Adaboost to quickly find and crop the face.
