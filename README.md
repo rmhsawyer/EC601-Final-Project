@@ -43,6 +43,6 @@ datasets: training datasets and codes we used
 
 6. my_model.pb -- for android implantation
 
-7 Nariz.xml -- open source 25x15 Nose detector computed with 7000 positive samples
+7. Nariz.xml -- open source 25x15 Nose detector computed with 7000 positive samples
 
 
