@@ -1,4 +1,4 @@
-# AdvancedAndroid_Emojify
+# Emoji Me
 You could download the whole file and open it in the Android Studio to test them.
 
 
