@@ -44,6 +44,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import timber.log.Timber;
 
+//import com.reactlibrary.googlesignin.RNGoogleSignInPackage;
 public class MainActivity extends AppCompatActivity {
 
 
@@ -79,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * OnClick method for "Emojify Me!" Button. Launches the camera app.
+     * OnClick method for "Emoji Me!" Button. Launches the camera app.
      */
     @OnClick(R.id.emojify_button)
     public void emojifyMe() {
