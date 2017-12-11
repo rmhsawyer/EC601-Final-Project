@@ -53,6 +53,8 @@ emojime_app -- android application
 
 8. feedback of our colleagues -- the feedback summary of our colleagues
 
+9. Emoji App Test based on Android.pdf and testemoji.xlsx are our test files
+
 # How to run this project:
 
 In this directory, try:
