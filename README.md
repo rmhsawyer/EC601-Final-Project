@@ -55,6 +55,10 @@ emojime_app -- android application
 
 9. Emoji App Test based on Android.pdf and testemoji.xlsx are our test files
 
+10.app-debug.apk -- our android test app 
+
+11.Map user's expressions into emojis.pdf -- our poster
+
 # How to run this project:
 
 In this directory, try:
